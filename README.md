@@ -2,10 +2,7 @@
 
 **vähän** (Finnish: "a little"). Global `CLAUDE.md` for Claude Code. Fewer words. Plain. Visual.
 
-```mermaid
-flowchart LR
-    A[CLAUDE.md] --> B[Claude Code session] --> C[Short, plain, visual answers]
-```
+<img src="flow.svg" alt="CLAUDE.md feeds a Claude Code session, which gives short, plain, visual answers">
 
 | Need | Read |
 |---|---|
