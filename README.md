@@ -1,6 +1,6 @@
-# claude-md
+<p align="center"><img src="banner.svg" alt="vähän" width="640"></p>
 
-Global `CLAUDE.md` for Claude Code. Makes output short, plain, visual.
+**vähän** (Finnish: "a little"). Global `CLAUDE.md` for Claude Code. Fewer words. Plain. Visual.
 
 ```mermaid
 flowchart LR
