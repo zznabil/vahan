@@ -1,12 +1,14 @@
 # claude-md
 
-My user-level global `CLAUDE.md` for Claude Code.
+Global `CLAUDE.md` for Claude Code. Makes output short, plain, visual.
 
-## Install
+```mermaid
+flowchart LR
+    A[CLAUDE.md] --> B[Claude Code session] --> C[Short, plain, visual answers]
+```
 
-Copy `CLAUDE.md` to `~/.claude/CLAUDE.md` (Windows: `C:\Users\<you>\.claude\CLAUDE.md`). Start a new session.
-
-## Rules
-
-- Talk in ASD-STE100, ISO 704 terminology, Diataxis structure. Extreme concision.
-- Prefer visuals over walls of text for nontechnical readers, when cognitive load drops.
+| Need | Read |
+|---|---|
+| Install | [docs/how-to-install.md](docs/how-to-install.md) |
+| Rule list | [docs/reference.md](docs/reference.md) |
+| Reason | [docs/explanation.md](docs/explanation.md) |
